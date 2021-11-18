@@ -36,7 +36,6 @@ public class s6e3 {
 			default:
 				x = sc.nextInt();
 				break;
-
 			}
 		}
 
