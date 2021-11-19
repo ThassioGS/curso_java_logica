@@ -1,4 +1,4 @@
-package secao6;
+package secao6pt1;
 
 import java.util.Locale;
 import java.util.Scanner;
