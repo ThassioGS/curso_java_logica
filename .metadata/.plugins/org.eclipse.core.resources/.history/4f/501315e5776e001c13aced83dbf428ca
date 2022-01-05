@@ -1,0 +1,6 @@
+module curso_java {
+	exports secao5;
+	exports secao4;
+	exports secao6pt2;
+	exports secao6pt1;
+}
